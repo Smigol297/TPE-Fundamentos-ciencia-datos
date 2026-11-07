@@ -1,0 +1,11 @@
+pandas
+wget
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+statsmodels
+requests
+jupyterlab
+ipywidgets

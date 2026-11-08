@@ -9,3 +9,4 @@ statsmodels
 requests
 jupyterlab
 ipywidgets
+ydata-profiling

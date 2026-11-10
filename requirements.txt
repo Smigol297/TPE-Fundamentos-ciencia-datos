@@ -10,3 +10,4 @@ requests
 jupyterlab
 ipywidgets
 ydata-profiling
+umap-learn

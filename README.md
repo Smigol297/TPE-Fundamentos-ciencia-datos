@@ -57,4 +57,4 @@ El análisis completo se encuentra en el archivo principal `TPE_Fundamentos_Stac
 * `Informe_Grupo35.pdf`: Documento ejecutivo detallando la metodología, los hallazgos estadísticos y las conclusiones de negocio.
 * `requirements.txt`: Archivo de configuración para reconstruir el ambiente exacto de dependencias de PIP.
 * `grafico-de-barras-Oficial.png`: Captura del reporte oficial de Stack Overflow, utilizada como "verdad de campo" para validar la integridad inicial de los datos.
-* `results.csv` y `schema.csv`: Conjunto de datos crudos de la Encuesta de Desarrolladores 2025 y su diccionario de variables correspondiente.
+* `datos_encuesta.zip`: Archivo comprimido que contiene los conjuntos de datos crudos (results.csv y schema.csv) de la Encuesta de Desarrolladores 2025.
